@@ -1,5 +1,4 @@
 # Sentiment-Analysis-Lexicon-approach
-Third year project
 
 Sentiment Analysis
 	Sentiment analysis is a natural language processing technique used to determine whether data is positive, negative or neutral. 
